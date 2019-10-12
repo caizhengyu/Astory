@@ -1,0 +1,2 @@
+must support mandarin characters
+will not work otherwise.
